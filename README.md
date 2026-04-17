@@ -112,9 +112,7 @@ status    :: compressing ugly workflows into one clean click
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SherryBX/SherryBX/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SherryBX/SherryBX/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="github contribution snake" src="https://raw.githubusercontent.com/SherryBX/SherryBX/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="github contribution snake" src="https://raw.githubusercontent.com/SherryBX/SherryBX/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -133,7 +131,7 @@ status    :: compressing ugly workflows into one clean click
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SherryBX&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SherryBX&theme=darkhub&no-frame=false&no-bg=false&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
 <h2 align="center">🔗 ACCESS PORTALS</h2>
@@ -149,4 +147,6 @@ status    :: compressing ugly workflows into one clean click
     <img src="https://img.shields.io/badge/Follow%20the%20Signal-0B1220?style=for-the-badge&logo=github&logoColor=9D7CFF" alt="follow" />
   </a>
 </div>
+
+
 
