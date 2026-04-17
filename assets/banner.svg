@@ -1,99 +1,114 @@
-﻿<svg width="1600" height="480" viewBox="0 0 1600 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+﻿<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="120" y1="40" x2="1500" y2="460" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="80" y1="40" x2="1510" y2="540" gradientUnits="userSpaceOnUse">
       <stop stop-color="#040711" />
-      <stop offset="0.52" stop-color="#0B1220" />
-      <stop offset="1" stop-color="#120A28" />
+      <stop offset="0.45" stop-color="#081423" />
+      <stop offset="1" stop-color="#170A2B" />
     </linearGradient>
-    <linearGradient id="lineGrad" x1="268" y1="102" x2="1290" y2="390" gradientUnits="userSpaceOnUse">
+    <linearGradient id="stroke" x1="246" y1="72" x2="1378" y2="470" gradientUnits="userSpaceOnUse">
       <stop stop-color="#7AF7F4" />
-      <stop offset="0.5" stop-color="#9D7CFF" />
+      <stop offset="0.52" stop-color="#9D7CFF" />
       <stop offset="1" stop-color="#FFB86C" />
     </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1240 120) rotate(117.441) scale(260 380)">
-      <stop stop-color="#7AF7F4" stop-opacity="0.42" />
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1256 112) rotate(117.642) scale(270 390)">
+      <stop stop-color="#7AF7F4" stop-opacity="0.5" />
       <stop offset="1" stop-color="#7AF7F4" stop-opacity="0" />
     </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(360 360) rotate(32.829) scale(310 220)">
-      <stop stop-color="#9D7CFF" stop-opacity="0.34" />
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 420) rotate(21.079) scale(320 250)">
+      <stop stop-color="#9D7CFF" stop-opacity="0.38" />
       <stop offset="1" stop-color="#9D7CFF" stop-opacity="0" />
     </radialGradient>
-    <filter id="softBlur" x="-100" y="-100" width="1800" height="680" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="28" />
+    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1414 404) rotate(152.387) scale(220 160)">
+      <stop stop-color="#FFB86C" stop-opacity="0.32" />
+      <stop offset="1" stop-color="#FFB86C" stop-opacity="0" />
+    </radialGradient>
+    <filter id="blurBig" x="-120" y="-120" width="1840" height="800" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="34" />
     </filter>
-    <filter id="neonBlur" x="0" y="0" width="1600" height="480" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="3.4" />
+    <filter id="blurText" x="0" y="0" width="1600" height="560" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="4.2" />
     </filter>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" stroke="#4B5563" stroke-opacity="0.2" stroke-width="1" />
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#4B5563" stroke-opacity="0.18" stroke-width="1" />
+    </pattern>
+    <pattern id="scan" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M0 0H16" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1" />
     </pattern>
   </defs>
 
-  <rect width="1600" height="480" rx="28" fill="url(#bgGrad)" />
-  <rect width="1600" height="480" rx="28" fill="url(#grid)" opacity="0.42" />
-  <rect x="10" y="10" width="1580" height="460" rx="22" stroke="url(#lineGrad)" stroke-opacity="0.72" stroke-width="2" />
+  <rect width="1600" height="560" rx="32" fill="url(#bg)" />
+  <rect width="1600" height="560" rx="32" fill="url(#grid)" opacity="0.58" />
+  <rect width="1600" height="560" rx="32" fill="url(#scan)" opacity="0.35" />
+  <rect x="10" y="10" width="1580" height="540" rx="26" stroke="url(#stroke)" stroke-opacity="0.72" stroke-width="2" />
 
-  <g filter="url(#softBlur)">
-    <circle cx="1240" cy="116" r="132" fill="url(#glowA)" />
-    <circle cx="346" cy="354" r="142" fill="url(#glowB)" />
+  <g filter="url(#blurBig)">
+    <circle cx="1256" cy="112" r="148" fill="url(#glowA)" />
+    <circle cx="330" cy="420" r="160" fill="url(#glowB)" />
+    <circle cx="1414" cy="404" r="110" fill="url(#glowC)" />
   </g>
 
-  <path d="M70 398C210 342 266 300 366 234C468 166 586 136 808 126C1058 114 1216 166 1528 74" stroke="url(#lineGrad)" stroke-opacity="0.24" stroke-width="3" />
-  <path d="M84 420C254 364 354 280 490 250C620 220 772 252 914 284C1116 330 1278 320 1510 238" stroke="#7AF7F4" stroke-opacity="0.12" stroke-width="2" />
+  <path d="M66 470C236 420 292 342 402 268C514 194 636 164 848 148C1088 130 1248 178 1534 80" stroke="url(#stroke)" stroke-opacity="0.24" stroke-width="3" />
+  <path d="M80 500C266 446 376 324 520 292C658 262 802 288 936 320C1126 364 1278 360 1514 272" stroke="#7AF7F4" stroke-opacity="0.12" stroke-width="2" />
+  <path d="M125 118H292" stroke="#7AF7F4" stroke-opacity="0.82" stroke-width="4" stroke-linecap="round" />
+  <path d="M125 118V162" stroke="#7AF7F4" stroke-opacity="0.82" stroke-width="4" stroke-linecap="round" />
+  <path d="M1308 96H1476" stroke="#FFB86C" stroke-opacity="0.82" stroke-width="4" stroke-linecap="round" />
+  <path d="M1476 96V146" stroke="#FFB86C" stroke-opacity="0.82" stroke-width="4" stroke-linecap="round" />
+  <path d="M124 414V458" stroke="#9D7CFF" stroke-opacity="0.82" stroke-width="4" stroke-linecap="round" />
+  <path d="M124 458H290" stroke="#9D7CFF" stroke-opacity="0.82" stroke-width="4" stroke-linecap="round" />
 
-  <g opacity="0.7">
-    <path d="M80 76H210" stroke="#7AF7F4" stroke-width="4" stroke-linecap="round" />
-    <path d="M80 76V116" stroke="#7AF7F4" stroke-width="4" stroke-linecap="round" />
-    <path d="M1390 76H1520" stroke="#FFB86C" stroke-width="4" stroke-linecap="round" />
-    <path d="M1520 76V116" stroke="#FFB86C" stroke-width="4" stroke-linecap="round" />
-    <path d="M80 364V404" stroke="#9D7CFF" stroke-width="4" stroke-linecap="round" />
-    <path d="M80 404H210" stroke="#9D7CFF" stroke-width="4" stroke-linecap="round" />
-    <path d="M1390 404H1520" stroke="#7AF7F4" stroke-width="4" stroke-linecap="round" />
-    <path d="M1520 364V404" stroke="#7AF7F4" stroke-width="4" stroke-linecap="round" />
+  <g opacity="0.24" fill="#D1D5DB" font-family="Consolas, 'Courier New', monospace" font-size="20">
+    <text x="136" y="182">const signal = ['reverse', 'automation', 'tooling'];</text>
+    <text x="136" y="214">const tempo = 'fast iteration with visual force';</text>
+    <text x="978" y="380">if (workflow.isUgly()) refactor();</text>
+    <text x="978" y="412">while (friction) buildBetterTools();</text>
   </g>
 
-  <g opacity="0.22" fill="#D1D5DB" font-family="Consolas, 'Courier New', monospace" font-size="20">
-    <text x="106" y="164">const focus = ['reverse', 'automation', 'tooling'];</text>
-    <text x="106" y="194">const mood = 'cyber neon with practical energy';</text>
-    <text x="1016" y="330">if (workflow.isUgly()) optimize();</text>
-    <text x="1016" y="360">while (noise) shipUsefulThings();</text>
+  <g filter="url(#blurText)" opacity="0.72">
+    <text x="138" y="282" fill="#7AF7F4" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="128" font-weight="900" letter-spacing="10">SHERRY</text>
   </g>
+  <text x="138" y="282" fill="#F8FAFC" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="128" font-weight="900" letter-spacing="10">SHERRY</text>
+  <text x="146" y="290" fill="#9D7CFF" fill-opacity="0.35" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="128" font-weight="900" letter-spacing="10">SHERRY</text>
 
-  <g filter="url(#neonBlur)" opacity="0.65">
-    <text x="118" y="218" fill="#7AF7F4" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="108" font-weight="800" letter-spacing="8">SHERRYBX</text>
-  </g>
-  <text x="118" y="218" fill="#F8FAFC" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="108" font-weight="800" letter-spacing="8">SHERRYBX</text>
+  <rect x="138" y="320" width="476" height="5" rx="2.5" fill="url(#stroke)" />
 
-  <rect x="118" y="246" width="430" height="4" rx="2" fill="url(#lineGrad)" />
-
-  <text x="120" y="292" fill="#D1D5DB" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="28" font-weight="600" letter-spacing="2.2">REVERSE · AUTOMATION · CREATOR TOOLS</text>
-  <text x="120" y="334" fill="#94A3B8" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="24" letter-spacing="1.2">Build fast. Break noise. Ship useful things.</text>
-  <text x="120" y="372" fill="#94A3B8" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="22" letter-spacing="1">逆向 · 自动化 · 创作工具 · 视觉表达</text>
+  <text x="140" y="370" fill="#D1D5DB" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="30" font-weight="700" letter-spacing="2.5">REVERSE ENGINEERING · AUTOMATION · CREATOR TOOLS</text>
+  <text x="140" y="414" fill="#94A3B8" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="25" letter-spacing="1.4">Build fast. Cut noise. Ship sharper tools.</text>
+  <text x="140" y="452" fill="#94A3B8" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="22" letter-spacing="1.1">逆向 · 自动化 · 工具设计 · 视觉表达</text>
 
   <g>
-    <rect x="1022" y="118" width="114" height="42" rx="21" fill="#09111F" stroke="#7AF7F4" stroke-opacity="0.5" />
-    <text x="1050" y="145" fill="#E6FFFD" font-family="Consolas, 'Courier New', monospace" font-size="20" font-weight="700">JS</text>
+    <rect x="1082" y="122" width="128" height="44" rx="22" fill="#09111F" stroke="#7AF7F4" stroke-opacity="0.55" />
+    <text x="1120" y="150" fill="#E6FFFD" font-family="Consolas, 'Courier New', monospace" font-size="20" font-weight="700">JS</text>
 
-    <rect x="1152" y="118" width="114" height="42" rx="21" fill="#09111F" stroke="#9D7CFF" stroke-opacity="0.5" />
-    <text x="1174" y="145" fill="#F1EBFF" font-family="Consolas, 'Courier New', monospace" font-size="20" font-weight="700">TS</text>
+    <rect x="1228" y="122" width="128" height="44" rx="22" fill="#09111F" stroke="#9D7CFF" stroke-opacity="0.55" />
+    <text x="1264" y="150" fill="#F0EAFF" font-family="Consolas, 'Courier New', monospace" font-size="20" font-weight="700">TS</text>
 
-    <rect x="1282" y="118" width="114" height="42" rx="21" fill="#09111F" stroke="#FFB86C" stroke-opacity="0.5" />
-    <text x="1306" y="145" fill="#FFF2E2" font-family="Consolas, 'Courier New', monospace" font-size="20" font-weight="700">PY</text>
-
-    <rect x="1062" y="182" width="160" height="42" rx="21" fill="#09111F" stroke="#9D7CFF" stroke-opacity="0.4" />
-    <text x="1090" y="209" fill="#ECE7FF" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700">CLOUDFLARE</text>
-
-    <rect x="1240" y="182" width="178" height="42" rx="21" fill="#09111F" stroke="#7AF7F4" stroke-opacity="0.4" />
-    <text x="1274" y="209" fill="#E6FFFD" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700">TAMPERMONKEY</text>
+    <rect x="1374" y="122" width="128" height="44" rx="22" fill="#09111F" stroke="#FFB86C" stroke-opacity="0.55" />
+    <text x="1410" y="150" fill="#FFF3E3" font-family="Consolas, 'Courier New', monospace" font-size="20" font-weight="700">PY</text>
   </g>
 
   <g>
-    <circle cx="1308" cy="316" r="62" stroke="#7AF7F4" stroke-opacity="0.28" stroke-width="2" />
-    <circle cx="1308" cy="316" r="94" stroke="#9D7CFF" stroke-opacity="0.22" stroke-width="2" stroke-dasharray="9 10" />
-    <circle cx="1308" cy="316" r="8" fill="#FFB86C" />
-    <path d="M1308 222V276" stroke="#7AF7F4" stroke-opacity="0.46" stroke-width="2" stroke-dasharray="7 7" />
-    <path d="M1402 316H1458" stroke="#9D7CFF" stroke-opacity="0.46" stroke-width="2" stroke-dasharray="7 7" />
-    <path d="M1308 410V458" stroke="#FFB86C" stroke-opacity="0.36" stroke-width="2" stroke-dasharray="7 7" />
-    <path d="M1214 316H1158" stroke="#7AF7F4" stroke-opacity="0.46" stroke-width="2" stroke-dasharray="7 7" />
+    <rect x="1052" y="204" width="196" height="48" rx="24" fill="#09111F" stroke="#9D7CFF" stroke-opacity="0.45" />
+    <text x="1090" y="234" fill="#F1EBFF" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700">CLOUDFLARE</text>
+
+    <rect x="1266" y="204" width="238" height="48" rx="24" fill="#09111F" stroke="#7AF7F4" stroke-opacity="0.45" />
+    <text x="1308" y="234" fill="#E6FFFD" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700">TAMPERMONKEY</text>
+  </g>
+
+  <g>
+    <rect x="1028" y="304" width="390" height="136" rx="24" fill="#07101D" fill-opacity="0.72" stroke="url(#stroke)" stroke-opacity="0.26" />
+    <text x="1060" y="344" fill="#7AF7F4" font-family="Consolas, 'Courier New', monospace" font-size="20" font-weight="700">MODE / ACTIVE</text>
+    <text x="1060" y="378" fill="#D1D5DB" font-family="Consolas, 'Courier New', monospace" font-size="18">focus      :: automation systems</text>
+    <text x="1060" y="406" fill="#D1D5DB" font-family="Consolas, 'Courier New', monospace" font-size="18">signal     :: reverse and rebuild</text>
+    <text x="1060" y="434" fill="#D1D5DB" font-family="Consolas, 'Courier New', monospace" font-size="18">aesthetic  :: neon interface pressure</text>
+  </g>
+
+  <g>
+    <circle cx="1436" cy="438" r="74" stroke="#7AF7F4" stroke-opacity="0.28" stroke-width="2" />
+    <circle cx="1436" cy="438" r="108" stroke="#9D7CFF" stroke-opacity="0.22" stroke-width="2" stroke-dasharray="10 10" />
+    <circle cx="1436" cy="438" r="10" fill="#FFB86C" />
+    <path d="M1436 330V374" stroke="#7AF7F4" stroke-opacity="0.42" stroke-width="2" stroke-dasharray="7 7" />
+    <path d="M1544 438H1590" stroke="#9D7CFF" stroke-opacity="0.42" stroke-width="2" stroke-dasharray="7 7" />
+    <path d="M1436 546V500" stroke="#FFB86C" stroke-opacity="0.32" stroke-width="2" stroke-dasharray="7 7" />
+    <path d="M1328 438H1282" stroke="#7AF7F4" stroke-opacity="0.42" stroke-width="2" stroke-dasharray="7 7" />
   </g>
 </svg>
