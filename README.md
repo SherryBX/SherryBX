@@ -76,38 +76,38 @@ status    :: compressing ugly workflows into one clean click
 
 <div align="center">
   <a href="https://github.com/SherryBX/Leave-debugger">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=Leave-debugger&hide_border=true&title_color=7AF7F4&text_color=E6EDF3&icon_color=FFB86C&bg_color=00000000" alt="Leave-debugger" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=Leave-debugger&hide_border=false&border_color=30363D&title_color=7AF7F4&text_color=E6EDF3&icon_color=FFB86C&bg_color=0D1117" alt="Leave-debugger" />
   </a>
   <a href="https://github.com/SherryBX/ZHIMOwriter">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=ZHIMOwriter&hide_border=true&title_color=9D7CFF&text_color=E6EDF3&icon_color=7AF7F4&bg_color=00000000" alt="ZHIMOwriter" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=ZHIMOwriter&hide_border=false&border_color=30363D&title_color=9D7CFF&text_color=E6EDF3&icon_color=7AF7F4&bg_color=0D1117" alt="ZHIMOwriter" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/SherryBX/cloud-mail">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=cloud-mail&hide_border=true&title_color=FFB86C&text_color=E6EDF3&icon_color=7AF7F4&bg_color=00000000" alt="cloud-mail" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=cloud-mail&hide_border=false&border_color=30363D&title_color=FFB86C&text_color=E6EDF3&icon_color=7AF7F4&bg_color=0D1117" alt="cloud-mail" />
   </a>
   <a href="https://github.com/SherryBX/md2picgo">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=md2picgo&hide_border=true&title_color=7AF7F4&text_color=E6EDF3&icon_color=9D7CFF&bg_color=00000000" alt="md2picgo" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=md2picgo&hide_border=false&border_color=30363D&title_color=7AF7F4&text_color=E6EDF3&icon_color=9D7CFF&bg_color=0D1117" alt="md2picgo" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/SherryBX/Find-claude-buddy">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=Find-claude-buddy&hide_border=true&title_color=9D7CFF&text_color=E6EDF3&icon_color=FFB86C&bg_color=00000000" alt="Find-claude-buddy" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=Find-claude-buddy&hide_border=false&border_color=30363D&title_color=9D7CFF&text_color=E6EDF3&icon_color=FFB86C&bg_color=0D1117" alt="Find-claude-buddy" />
   </a>
   <a href="https://github.com/SherryBX/n8nUpload4u">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=n8nUpload4u&hide_border=true&title_color=FFB86C&text_color=E6EDF3&icon_color=7AF7F4&bg_color=00000000" alt="n8nUpload4u" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=SherryBX&repo=n8nUpload4u&hide_border=false&border_color=30363D&title_color=FFB86C&text_color=E6EDF3&icon_color=7AF7F4&bg_color=0D1117" alt="n8nUpload4u" />
   </a>
 </div>
 
 <h2 align="center">📡 CONTRIBUTION VOLTAGE</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SherryBX&show_icons=true&hide_border=true&title_color=7AF7F4&text_color=E6EDF3&icon_color=FFB86C&bg_color=00000000&rank_icon=github" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherryBX&layout=compact&hide_border=true&title_color=9D7CFF&text_color=E6EDF3&bg_color=00000000" alt="top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SherryBX&show_icons=true&hide_border=false&border_color=30363D&title_color=7AF7F4&text_color=E6EDF3&icon_color=FFB86C&bg_color=0D1117&rank_icon=github" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherryBX&layout=compact&hide_border=false&border_color=30363D&title_color=9D7CFF&text_color=E6EDF3&bg_color=0D1117" alt="top langs" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=SherryBX&hide_border=true&background=00000000&ring=7AF7F4&fire=FFB86C&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=FFFFFF&dates=9CA3AF&sideNums=FFFFFF" alt="streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=SherryBX&hide_border=false&border=30363D&background=0D1117&ring=7AF7F4&fire=FFB86C&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=FFFFFF&dates=9CA3AF&sideNums=FFFFFF" alt="streak" />
 </div>
 
 <div align="center">
@@ -119,7 +119,7 @@ status    :: compressing ugly workflows into one clean click
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SherryBX&bg_color=0D1117&color=7AF7F4&line=9D7CFF&point=FFB86C&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SherryBX&bg_color=0D1117&color=7AF7F4&line=9D7CFF&point=FFB86C&area=true&hide_border=false" alt="activity graph" />
 </div>
 
 <h2 align="center">🛰 RADAR</h2>
@@ -149,3 +149,4 @@ status    :: compressing ugly workflows into one clean click
     <img src="https://img.shields.io/badge/Follow%20the%20Signal-0B1220?style=for-the-badge&logo=github&logoColor=9D7CFF" alt="follow" />
   </a>
 </div>
+
