@@ -64,10 +64,10 @@
   </g>
 
   <g filter="url(#blurText)" opacity="0.72">
-    <text x="138" y="282" fill="#7AF7F4" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="128" font-weight="900" letter-spacing="10">SHERRY</text>
+    <text x="138" y="282" fill="#7AF7F4" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="128" font-weight="900" letter-spacing="10">Sherry</text>
   </g>
-  <text x="138" y="282" fill="#F8FAFC" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="128" font-weight="900" letter-spacing="10">SHERRY</text>
-  <text x="146" y="290" fill="#9D7CFF" fill-opacity="0.35" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="128" font-weight="900" letter-spacing="10">SHERRY</text>
+  <text x="138" y="282" fill="#F8FAFC" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="128" font-weight="900" letter-spacing="10">Sherry</text>
+  <text x="146" y="290" fill="#9D7CFF" fill-opacity="0.35" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="128" font-weight="900" letter-spacing="10">Sherry</text>
 
   <rect x="138" y="320" width="476" height="5" rx="2.5" fill="url(#stroke)" />
 
@@ -112,3 +112,4 @@
     <path d="M1328 438H1282" stroke="#7AF7F4" stroke-opacity="0.42" stroke-width="2" stroke-dasharray="7 7" />
   </g>
 </svg>
+
