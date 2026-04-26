@@ -1,0 +1,18 @@
+<svg width="640" height="320" viewBox="0 0 640 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="320" rx="24" fill="#F4F1EA"/>
+  <rect x="18" y="18" width="604" height="284" rx="16" stroke="#C7D0D9" stroke-width="2"/>
+  <path d="M70 84H570" stroke="#D9E0E6"/>
+  <path d="M70 142H570" stroke="#D9E0E6"/>
+  <path d="M70 200H570" stroke="#D9E0E6"/>
+  <path d="M210 58V262" stroke="#D9E0E6"/>
+  <path d="M390 58V262" stroke="#D9E0E6"/>
+  <text x="72" y="74" fill="#6D7A88" font-family="Inter, Arial, sans-serif" font-size="14" letter-spacing="3">SIGNAL / 01</text>
+  <text x="72" y="124" fill="#1D2733" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="1">VISUAL RHYTHM</text>
+  <text x="72" y="178" fill="#2C3948" font-family="Inter, Arial, sans-serif" font-size="20">negative space, measured contrast,</text>
+  <text x="72" y="206" fill="#2C3948" font-family="Inter, Arial, sans-serif" font-size="20">and geometry that carries mood.</text>
+  <rect x="430" y="92" width="122" height="122" rx="22" stroke="#7E93AD" stroke-width="4"/>
+  <circle cx="491" cy="153" r="34" fill="#7E93AD"/>
+  <path d="M430 153H552" stroke="#C7D0D9" stroke-width="2"/>
+  <path d="M491 92V214" stroke="#C7D0D9" stroke-width="2"/>
+  <text x="72" y="254" fill="#6D7A88" font-family="Inter, Arial, sans-serif" font-size="14" letter-spacing="3">calm plane / clear edge / one accent</text>
+</svg>
