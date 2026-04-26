@@ -1,9 +1,7 @@
 <a id="top"></a>
 
-<h1 align="center">Sherry</h1>
-
 <p align="center">
-  <img src="./assets/hero-panel.svg" alt="Sherry profile hero" width="100%" />
+  <img src="./assets/hero-panel.svg" alt="Sherry geometric hero surface" width="100%" />
 </p>
 
 <p align="center">
@@ -17,77 +15,72 @@
 </p>
 
 <p align="center">
-  <sub>quiet geometry / interface tension / reverse reading / visual systems</sub>
+  <sub>geometric linework / elegant surfaces / measured interaction</sub>
 </p>
 
-## about
+<br />
 
-I like building pages that feel precise, calm, and a little sharp.
+<a id="about"></a>
 
-My work usually sits around code, reverse engineering, interaction structure, and visual rhythm.
-I care about spacing, sequence, restraint, and the small signals that make an interface feel deliberate.
+<p align="center">
+  <img src="./assets/about-surface.svg" alt="About surface" width="100%" />
+</p>
 
 <br />
 
-## signals
+<a id="signals"></a>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <img src="./assets/signal-visual.svg" alt="Visual signal panel" width="100%" />
-    </td>
-    <td width="33%" valign="top">
-      <img src="./assets/signal-build.svg" alt="Build signal panel" width="100%" />
-    </td>
-    <td width="33%" valign="top">
-      <img src="./assets/signal-reverse.svg" alt="Reverse signal panel" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/signals-matrix.svg" alt="Signals matrix" width="100%" />
+</p>
 
 <br />
 
-## layers
+<a id="layers"></a>
+
+<p align="center">
+  <img src="./assets/layers-ribbon.svg" alt="Layers ribbon" width="100%" />
+</p>
 
 <details>
-  <summary><strong>layer 01 · current thinking</strong></summary>
+  <summary><strong>layer 01 / direction</strong></summary>
   <br />
 
-  - interfaces should feel edited, not crowded
-  - motion is strongest when it is implied by structure
-  - interaction gets better when each layer has one job
-  - reverse work starts with runtime truth, then source follows
+  - elegant pages with visible structure
+  - interaction cues that arrive quietly
+  - geometry that guides the eye and keeps the plane calm
+  - one strong move, then restraint everywhere else
 
 </details>
 
 <details>
-  <summary><strong>layer 02 · process and tools</strong></summary>
+  <summary><strong>layer 02 / focus</strong></summary>
   <br />
 
   | field | focus |
   | --- | --- |
-  | layout | grid, rhythm, offset geometry, negative space |
-  | frontend | interaction framing, component shaping, readable systems |
-  | reverse | request tracing, bundle reading, protocol recovery |
-  | tooling | small utilities that remove drag and sharpen flow |
+  | interface | profile surfaces, dashboards, compact systems |
+  | frontend | structure, rhythm, interaction framing |
+  | reverse | bundle reading, request tracing, protocol recovery |
+  | tooling | small utilities that make workflows lighter |
 
 </details>
 
 <details>
-  <summary><strong>layer 03 · notes behind the surface</strong></summary>
+  <summary><strong>layer 03 / notes</strong></summary>
   <br />
 
-  I like interfaces that leave room to breathe.
+  I like linework that feels architectural, not decorative.
 
-  I usually prefer one strong move over many decorative ones, one accent over a full spectrum, and one clear interaction cue over noisy ornament.
+  I prefer a page that looks composed from the first screen, then reveals more only when you open it.
 
-  This page follows the same rule set: clean plane, measured contrast, visible structure, and only a few places to click.
+  This README follows that same idea: a quiet surface, geometric anchors, and just enough interaction to make the page feel alive.
 
 </details>
 
 <br />
 
-## contact
+<a id="contact"></a>
 
 <p align="center">
   <a href="https://github.com/SherryBX">github</a>
@@ -96,5 +89,5 @@ I care about spacing, sequence, restraint, and the small signals that make an in
 </p>
 
 <p align="center">
-  <sub>built as a profile surface, shaped for clarity and interaction.</sub>
+  <sub>designed as a profile page with line, tension, and restraint.</sub>
 </p>

@@ -1,64 +1,66 @@
-<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="640" rx="28" fill="#F4F1EA"/>
-  <rect x="24" y="24" width="1232" height="592" rx="20" stroke="#C7D0D9" stroke-width="2"/>
+<svg width="1600" height="820" viewBox="0 0 1600 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="820" rx="36" fill="#F6F2EA"/>
+  <rect x="28" y="28" width="1544" height="764" rx="26" stroke="#CCD4DC" stroke-width="2"/>
+  <rect x="72" y="72" width="1456" height="676" rx="12" stroke="#DDE3E9" stroke-width="1.5"/>
 
-  <g opacity="0.7">
-    <path d="M116 84H1164" stroke="#D7DEE5"/>
-    <path d="M116 164H1164" stroke="#E1E7EC"/>
-    <path d="M116 244H1164" stroke="#E1E7EC"/>
-    <path d="M116 324H1164" stroke="#D7DEE5"/>
-    <path d="M116 404H1164" stroke="#E1E7EC"/>
-    <path d="M116 484H1164" stroke="#E1E7EC"/>
-    <path d="M116 564H1164" stroke="#D7DEE5"/>
-    <path d="M196 84V564" stroke="#E1E7EC"/>
-    <path d="M356 84V564" stroke="#D7DEE5"/>
-    <path d="M516 84V564" stroke="#E1E7EC"/>
-    <path d="M676 84V564" stroke="#D7DEE5"/>
-    <path d="M836 84V564" stroke="#E1E7EC"/>
-    <path d="M996 84V564" stroke="#D7DEE5"/>
+  <g opacity="0.75">
+    <path d="M118 126H1482" stroke="#DCE2E8" stroke-width="1.5"/>
+    <path d="M118 222H1482" stroke="#E3E8ED" stroke-width="1.5"/>
+    <path d="M118 318H1482" stroke="#DCE2E8" stroke-width="1.5"/>
+    <path d="M118 414H1482" stroke="#E3E8ED" stroke-width="1.5"/>
+    <path d="M118 510H1482" stroke="#DCE2E8" stroke-width="1.5"/>
+    <path d="M118 606H1482" stroke="#E3E8ED" stroke-width="1.5"/>
+    <path d="M118 702H1482" stroke="#DCE2E8" stroke-width="1.5"/>
+    <path d="M250 126V702" stroke="#E2E7EC" stroke-width="1.5"/>
+    <path d="M442 126V702" stroke="#D8E0E7" stroke-width="1.5"/>
+    <path d="M634 126V702" stroke="#E2E7EC" stroke-width="1.5"/>
+    <path d="M826 126V702" stroke="#D8E0E7" stroke-width="1.5"/>
+    <path d="M1018 126V702" stroke="#E2E7EC" stroke-width="1.5"/>
+    <path d="M1210 126V702" stroke="#D8E0E7" stroke-width="1.5"/>
   </g>
 
   <g>
-    <circle cx="84" cy="84" r="8" fill="#7E93AD"/>
-    <circle cx="1196" cy="84" r="8" fill="#D1D9E1"/>
-    <circle cx="84" cy="556" r="8" fill="#D1D9E1"/>
-    <circle cx="1196" cy="556" r="8" fill="#7E93AD"/>
+    <circle cx="96" cy="96" r="7" fill="#73879C"/>
+    <circle cx="1504" cy="96" r="7" fill="#73879C"/>
+    <circle cx="96" cy="724" r="7" fill="#D5DCE3"/>
+    <circle cx="1504" cy="724" r="7" fill="#D5DCE3"/>
   </g>
 
   <g>
-    <text x="120" y="116" fill="#6D7A88" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="4">PROFILE / SURFACE / 01</text>
-    <text x="120" y="212" fill="#1D2733" font-family="Inter, Arial, sans-serif" font-size="106" font-weight="700" letter-spacing="6">SHERRY</text>
-    <text x="126" y="264" fill="#6D7A88" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="5">BUILD · REVERSE · VISUAL RHYTHM</text>
-    <text x="126" y="330" fill="#2C3948" font-family="Inter, Arial, sans-serif" font-size="30">quiet geometry for pages that want structure and tension.</text>
-    <text x="126" y="372" fill="#2C3948" font-family="Inter, Arial, sans-serif" font-size="30">code, interface systems, and interaction with a measured pulse.</text>
+    <text x="120" y="110" fill="#6A7785" font-family="Inter, Arial, sans-serif" font-size="19" letter-spacing="5">PROFILE SURFACE / GEOMETRIC EDITION</text>
+    <text x="120" y="248" fill="#1D2733" font-family="Georgia, 'Times New Roman', serif" font-size="126" letter-spacing="2">Sherry</text>
+    <text x="126" y="316" fill="#334152" font-family="Inter, Arial, sans-serif" font-size="28" letter-spacing="6">ELEGANT LINES / INTERACTIVE SURFACES / QUIET TENSION</text>
+    <text x="126" y="404" fill="#2A3746" font-family="Inter, Arial, sans-serif" font-size="34">building pages that feel composed, geometric, and alive in a restrained way.</text>
+    <text x="126" y="454" fill="#2A3746" font-family="Inter, Arial, sans-serif" font-size="34">reverse logic, visual rhythm, and structure held in the same frame.</text>
   </g>
 
   <g>
-    <rect x="126" y="440" width="180" height="48" rx="24" fill="#FBF8F2" stroke="#9DAFC0" stroke-width="2"/>
-    <text x="159" y="471" fill="#233142" font-family="Inter, Arial, sans-serif" font-size="20" letter-spacing="2">about</text>
-    <rect x="322" y="440" width="180" height="48" rx="24" fill="#FBF8F2" stroke="#9DAFC0" stroke-width="2"/>
-    <text x="351" y="471" fill="#233142" font-family="Inter, Arial, sans-serif" font-size="20" letter-spacing="2">signals</text>
-    <rect x="518" y="440" width="180" height="48" rx="24" fill="#FBF8F2" stroke="#9DAFC0" stroke-width="2"/>
-    <text x="556" y="471" fill="#233142" font-family="Inter, Arial, sans-serif" font-size="20" letter-spacing="2">layers</text>
+    <path d="M126 548H676" stroke="#93A4B6" stroke-width="2"/>
+    <path d="M126 592H588" stroke="#D0D8E0" stroke-width="2"/>
+    <path d="M126 636H644" stroke="#D0D8E0" stroke-width="2"/>
+    <rect x="126" y="590" width="14" height="14" rx="7" fill="#73879C"/>
   </g>
 
   <g>
-    <rect x="762" y="130" width="356" height="356" rx="32" fill="#FBF8F2" stroke="#BEC9D3" stroke-width="2"/>
-    <rect x="812" y="178" width="260" height="260" rx="20" stroke="#7E93AD" stroke-width="4"/>
-    <rect x="842" y="208" width="200" height="200" rx="16" stroke="#C9D3DC" stroke-width="2"/>
-    <circle cx="942" cy="308" r="82" stroke="#233142" stroke-width="4"/>
-    <circle cx="942" cy="308" r="34" fill="#7E93AD"/>
-    <path d="M760 306H1120" stroke="#C7D0D9" stroke-width="2"/>
-    <path d="M942 128V488" stroke="#C7D0D9" stroke-width="2"/>
-    <path d="M858 224L1026 392" stroke="#D7DEE5" stroke-width="2"/>
-    <path d="M1026 224L858 392" stroke="#D7DEE5" stroke-width="2"/>
-    <rect x="744" y="112" width="60" height="60" rx="12" fill="#7E93AD"/>
-    <rect x="1080" y="444" width="76" height="76" rx="18" fill="#E5EBF0" stroke="#BEC9D3" stroke-width="2"/>
-    <path d="M1080 482H1156" stroke="#BEC9D3" stroke-width="2"/>
-    <path d="M1118 444V520" stroke="#BEC9D3" stroke-width="2"/>
+    <rect x="944" y="144" width="478" height="478" rx="40" fill="#FBF8F2" stroke="#C7D0D9" stroke-width="2"/>
+    <rect x="988" y="188" width="390" height="390" rx="30" stroke="#8698AB" stroke-width="3"/>
+    <rect x="1020" y="220" width="326" height="326" rx="24" stroke="#D4DCE3" stroke-width="2"/>
+    <circle cx="1183" cy="383" r="128" stroke="#243242" stroke-width="3"/>
+    <circle cx="1183" cy="383" r="84" stroke="#7B8FA5" stroke-width="3"/>
+    <circle cx="1183" cy="383" r="34" fill="#7B8FA5"/>
+    <path d="M944 383H1422" stroke="#D1D8E0" stroke-width="2"/>
+    <path d="M1183 144V622" stroke="#D1D8E0" stroke-width="2"/>
+    <path d="M1073 273L1293 493" stroke="#DCE2E8" stroke-width="2"/>
+    <path d="M1293 273L1073 493" stroke="#DCE2E8" stroke-width="2"/>
+    <path d="M1020 546L1183 383L1346 546" stroke="#A8B5C2" stroke-width="2"/>
+    <path d="M1020 220C1102 252 1263 252 1346 220" stroke="#D8E0E7" stroke-width="2"/>
+    <rect x="910" y="110" width="68" height="68" rx="16" fill="#7B8FA5"/>
+    <rect x="1378" y="548" width="84" height="84" rx="18" fill="#EEF2F5" stroke="#C7D0D9" stroke-width="2"/>
+    <path d="M1378 590H1462" stroke="#C7D0D9" stroke-width="2"/>
+    <path d="M1420 548V632" stroke="#C7D0D9" stroke-width="2"/>
   </g>
 
   <g>
-    <text x="777" y="525" fill="#6D7A88" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="3">GRID 09 / OFFSET 03 / TENSION LOW</text>
+    <text x="952" y="680" fill="#6A7785" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="4">LINE INDEX / 06  ·  TENSION / LOW  ·  SURFACE / CALM</text>
   </g>
 </svg>

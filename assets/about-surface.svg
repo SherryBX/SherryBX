@@ -1,0 +1,27 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="420" rx="30" fill="#F6F2EA"/>
+  <rect x="24" y="24" width="1552" height="372" rx="22" stroke="#CCD4DC" stroke-width="2"/>
+  <path d="M110 110H1490" stroke="#DDE3E9" stroke-width="1.5"/>
+  <path d="M110 210H1490" stroke="#E4E9EE" stroke-width="1.5"/>
+  <path d="M110 310H1490" stroke="#DDE3E9" stroke-width="1.5"/>
+  <path d="M260 70V350" stroke="#E4E9EE" stroke-width="1.5"/>
+  <path d="M1020 70V350" stroke="#E4E9EE" stroke-width="1.5"/>
+
+  <text x="112" y="96" fill="#6A7785" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="4">ABOUT / SURFACE / 02</text>
+  <text x="112" y="176" fill="#1D2733" font-family="Georgia, 'Times New Roman', serif" font-size="66">quiet structure, careful rhythm</text>
+  <text x="112" y="244" fill="#2B3948" font-family="Inter, Arial, sans-serif" font-size="30">I like pages that feel edited and composed, where line, spacing, and hierarchy</text>
+  <text x="112" y="286" fill="#2B3948" font-family="Inter, Arial, sans-serif" font-size="30">do the work before any effect tries to take over.</text>
+  <text x="112" y="336" fill="#6A7785" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="3">code / reverse reading / interface design / controlled interaction</text>
+
+  <g>
+    <rect x="1120" y="92" width="320" height="236" rx="28" fill="#FBF8F2" stroke="#C9D1DA" stroke-width="2"/>
+    <path d="M1160 136H1400" stroke="#8A9CAE" stroke-width="3"/>
+    <path d="M1160 188H1370" stroke="#D0D8E0" stroke-width="2"/>
+    <path d="M1160 224H1320" stroke="#D0D8E0" stroke-width="2"/>
+    <path d="M1160 260H1388" stroke="#D0D8E0" stroke-width="2"/>
+    <circle cx="1336" cy="136" r="36" stroke="#243242" stroke-width="3"/>
+    <circle cx="1336" cy="136" r="12" fill="#7B8FA5"/>
+    <path d="M1120 210H1440" stroke="#D7DFE6" stroke-width="1.5"/>
+    <path d="M1280 92V328" stroke="#D7DFE6" stroke-width="1.5"/>
+  </g>
+</svg>

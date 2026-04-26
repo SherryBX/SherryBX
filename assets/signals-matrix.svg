@@ -1,0 +1,34 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="520" rx="30" fill="#F6F2EA"/>
+  <rect x="24" y="24" width="1552" height="472" rx="22" stroke="#CCD4DC" stroke-width="2"/>
+  <path d="M90 104H1510" stroke="#DCE2E8" stroke-width="1.5"/>
+  <path d="M90 256H1510" stroke="#DCE2E8" stroke-width="1.5"/>
+  <path d="M90 408H1510" stroke="#DCE2E8" stroke-width="1.5"/>
+  <path d="M534 72V448" stroke="#DCE2E8" stroke-width="1.5"/>
+  <path d="M1068 72V448" stroke="#DCE2E8" stroke-width="1.5"/>
+
+  <text x="92" y="92" fill="#6A7785" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="4">SIGNALS / MATRIX / 03</text>
+
+  <text x="108" y="164" fill="#1D2733" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="1">VISUAL ORDER</text>
+  <text x="108" y="220" fill="#2B3948" font-family="Inter, Arial, sans-serif" font-size="26">line systems, negative space,</text>
+  <text x="108" y="256" fill="#2B3948" font-family="Inter, Arial, sans-serif" font-size="26">and surfaces that stay calm.</text>
+  <path d="M108 316H420" stroke="#8FA2B5" stroke-width="3"/>
+  <path d="M108 352H392" stroke="#D0D8E0" stroke-width="2"/>
+  <path d="M108 388H436" stroke="#D0D8E0" stroke-width="2"/>
+
+  <text x="642" y="164" fill="#1D2733" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="1">BUILD SHAPE</text>
+  <text x="642" y="220" fill="#2B3948" font-family="Inter, Arial, sans-serif" font-size="26">interaction framed by structure,</text>
+  <text x="642" y="256" fill="#2B3948" font-family="Inter, Arial, sans-serif" font-size="26">clarity, and measured movement.</text>
+  <rect x="642" y="316" width="236" height="44" rx="22" fill="#FBF8F2" stroke="#9FAFBE" stroke-width="2"/>
+  <rect x="642" y="376" width="180" height="44" rx="22" fill="#7B8FA5"/>
+  <rect x="840" y="376" width="122" height="44" rx="22" fill="#EEF2F5" stroke="#C7D0D9" stroke-width="2"/>
+
+  <text x="1176" y="164" fill="#1D2733" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="1">REVERSE READ</text>
+  <text x="1176" y="220" fill="#2B3948" font-family="Inter, Arial, sans-serif" font-size="26">runtime truth first, then traces,</text>
+  <text x="1176" y="256" fill="#2B3948" font-family="Inter, Arial, sans-serif" font-size="26">then the hidden map underneath.</text>
+  <circle cx="1320" cy="364" r="70" stroke="#243242" stroke-width="3"/>
+  <circle cx="1320" cy="364" r="44" stroke="#7B8FA5" stroke-width="3"/>
+  <circle cx="1320" cy="364" r="12" fill="#7B8FA5"/>
+  <path d="M1250 364H1390" stroke="#D0D8E0" stroke-width="2"/>
+  <path d="M1320 294V434" stroke="#D0D8E0" stroke-width="2"/>
+</svg>
