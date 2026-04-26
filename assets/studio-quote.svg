@@ -1,0 +1,9 @@
+<svg width="1600" height="260" viewBox="0 0 1600 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="260" rx="30" fill="#F6F2EA"/>
+  <rect x="24" y="24" width="1552" height="212" rx="22" stroke="#CCD4DC" stroke-width="2"/>
+  <path d="M92 130H1508" stroke="#DFE5EA" stroke-width="1.5"/>
+  <path d="M324 74V186" stroke="#DFE5EA" stroke-width="1.5"/>
+  <path d="M1276 74V186" stroke="#DFE5EA" stroke-width="1.5"/>
+  <text x="94" y="118" fill="#6A7785" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="4">STUDIO NOTE / 03</text>
+  <text x="94" y="180" fill="#1D2733" font-family="Georgia, 'Times New Roman', serif" font-size="52">elegance lives in line, spacing, and one well-timed surprise.</text>
+</svg>

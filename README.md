@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#about">about</a>
-  /
-  <a href="#signals">signals</a>
+  <a href="#folio">folio</a>
   /
   <a href="#layers">layers</a>
   /
@@ -15,23 +13,19 @@
 </p>
 
 <p align="center">
-  <sub>geometric linework / elegant surfaces / measured interaction</sub>
+  <sub>architectural linework / elegant tension / playful restraint</sub>
 </p>
 
 <br />
 
-<a id="about"></a>
+<a id="folio"></a>
 
 <p align="center">
-  <img src="./assets/about-surface.svg" alt="About surface" width="100%" />
+  <img src="./assets/atlas-folio.svg" alt="Sherry folio atlas" width="100%" />
 </p>
 
-<br />
-
-<a id="signals"></a>
-
 <p align="center">
-  <img src="./assets/signals-matrix.svg" alt="Signals matrix" width="100%" />
+  <img src="./assets/studio-quote.svg" alt="Studio quote surface" width="100%" />
 </p>
 
 <br />
@@ -42,39 +36,39 @@
   <img src="./assets/layers-ribbon.svg" alt="Layers ribbon" width="100%" />
 </p>
 
-<details>
-  <summary><strong>layer 01 / direction</strong></summary>
+<details open>
+  <summary><strong>atelier / 01 / surface notes</strong></summary>
   <br />
 
-  - elegant pages with visible structure
-  - interaction cues that arrive quietly
-  - geometry that guides the eye and keeps the plane calm
-  - one strong move, then restraint everywhere else
+  - I like pages that feel composed from the first screen.
+  - Linework should guide the eye without asking for attention.
+  - The elegant move is usually quiet, precise, and slightly unexpected.
+  - Interaction lands best when it feels discovered.
 
 </details>
 
 <details>
-  <summary><strong>layer 02 / focus</strong></summary>
+  <summary><strong>atelier / 02 / current fields</strong></summary>
   <br />
 
   | field | focus |
   | --- | --- |
-  | interface | profile surfaces, dashboards, compact systems |
-  | frontend | structure, rhythm, interaction framing |
+  | visual systems | geometry, rhythm, negative space, hierarchy |
+  | frontend | layout tension, interaction framing, refined components |
   | reverse | bundle reading, request tracing, protocol recovery |
-  | tooling | small utilities that make workflows lighter |
+  | tooling | compact utilities that make hard flows feel light |
 
 </details>
 
 <details>
-  <summary><strong>layer 03 / notes</strong></summary>
+  <summary><strong>atelier / 03 / if curious</strong></summary>
   <br />
 
-  I like linework that feels architectural, not decorative.
+  I enjoy profiles that read like a designed page instead of a stacked template.
 
-  I prefer a page that looks composed from the first screen, then reveals more only when you open it.
+  So this README leans into one long surface, framed by geometric lines, serif tension, and a few folds you can open when curiosity kicks in.
 
-  This README follows that same idea: a quiet surface, geometric anchors, and just enough interaction to make the page feel alive.
+  There is more room to push this further, especially with denser line choreography and sharper section contrast.
 
 </details>
 
@@ -83,11 +77,15 @@
 <a id="contact"></a>
 
 <p align="center">
+  <img src="./assets/footer-plate.svg" alt="Footer plate" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/SherryBX">github</a>
   /
   <a href="#top">back to top</a>
 </p>
 
 <p align="center">
-  <sub>designed as a profile page with line, tension, and restraint.</sub>
+  <sub>designed as a profile surface with line, poise, and a little mischief.</sub>
 </p>
